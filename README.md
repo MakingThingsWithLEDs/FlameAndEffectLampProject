@@ -3,30 +3,30 @@
 | Effects / Patterns    	| Demo Link                              	|
 |-----------------------	|----------------------------------------	|
 | Analogous1            	|                                        	|
-| Aurora                	|                                        	|
+| Aurora                	| https://youtube.com/shorts/tznZ2VO32Hc  	|
 | BlackAndWhite         	|                                        	|
 | BPM                   	|                                        	|
-| Calbayo15             	|                                        	|
-| Cloud                 	|                                        	|
+| Calbayo15             	| https://youtube.com/shorts/0qThDWDu8_c   	|
+| Cloud                 	| https://youtube.com/shorts/4wfBBk5MDZU   	|
 | CloudTwinkles         	|                                        	|
-| ColorCube             	|                                        	|
-| ColorWaves            	|                                        	|
+| ColorCube             	| https://youtube.com/shorts/DctwlOFSzhI   	|
+| ColorWaves            	| https://youtube.com/shorts/IHzrdELltbE   	|
 | Confetti              	|                                        	|
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
-| DeepSea               	|                                        	|
-| Fire2012Rainbow1      	|                                        	|
+| DeepSea               	| https://youtube.com/shorts/G7jjCzjSWsY   	|
+| Fire2012Rainbow1      	| https://youtube.com/shorts/2alPTXy9td4  	|
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	|                                        	|
-| FireBlue              	|                                        	|
-| FireChemical          	|                                        	|
+| FireBlue              	| https://youtube.com/shorts/bMxSjyPFbNc   	|
+| FireChemical          	| https://youtube.com/shorts/K4hKP4ozJ5w   	|
 | FireElectricBlue      	| https://youtube.com/shorts/lpRK-O7NiRo 	|
 | Fireflies             	|                                        	|
 | FireGreen             	|                                        	|
 | FireNoise             	|                                        	|
-| FireOrange            	|                                        	|
-| FirePurple            	|                                        	|
-| FireRed               	|                                        	|
+| FireOrange            	| https://youtube.com/shorts/jMiIILJbq-4   	|
+| FirePurple            	| https://youtube.com/shorts/-IIZDdWnjbg   	|
+| FireRed               	| https://youtube.com/shorts/r67FtGZvrxc   	|
 | FireWhite             	|                                        	|
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
@@ -34,24 +34,24 @@
 | Juggle                	|                                        	|
 | Lava                  	|                                        	|
 | LavaLampRainbow       	|                                        	|
-| LavaLampRainbowStripe 	|                                        	|
+| LavaLampRainbowStripe 	| https://youtube.com/shorts/55KkUm9QyAU   	|
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	|                                        	|
+| Party                 	| https://youtube.com/shorts/-qBbfKF9O6U   	|
 | Pride                 	|                                        	|
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
 | RainbowTwinkles       	|                                        	|
 | RainbowWithGlitter    	|                                        	|
-| RampRGB               	|                                        	|
+| RampRGB               	| https://youtube.com/shorts/0ObJYcaAYPE   	|
 | Rstcurv               	|                                        	|
-| Shikon22              	|                                        	|
-| Shikon23              	|                                        	|
+| Shikon22              	| https://youtube.com/shorts/PNE2V_ilvOU  	|
+| Shikon23              	| https://youtube.com/shorts/TZnlH3zCKJE   	|
 | ShowSolidColor        	|                                        	|
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
 | Spectrum              	|                                        	|
-| Temperature           	|                                        	|
+| Temperature           	| https://youtube.com/shorts/VB1DDAX-vIg   	|
 | Vintage49             	|                                        	|
 | Wave                  	|                                        	|
 
