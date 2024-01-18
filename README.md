@@ -1,108 +1,59 @@
 # LED Effect Lamp For PJRC Teensy / WS2812B Matrix
 
-Analogous1			
-			
-Aurora
-
-BlackAndWhite
-
-BPM
-
-Calbayo15
-
-Cloud
-
-CloudTwinkles
-
-ColorCube
-
-ColorWaves
-
-Confetti
-
-CoralReef
-
-Curvature
-
-DeepSea
-
-Fire2012Rainbow1
-
-Fire2012WithPalette
-
-FireAqua
-
-FireBlue
-
-FireChemical
-
-FireElectricBlue                 https://youtube.com/shorts/lpRK-O7NiRo
-
-Fireflies
-
-FireGreen
-
-FireNoise
-
-FireOrange
-
-FirePurple
-
-FireRed
-
-FireWhite
-
-Forest
-
-HueCycle
-
-IncandescentTwinkles
-
-Juggle
-
-Lava
-
-LavaLampRainbow
-
-LavaLampRainbowStripe
-
-Ocean
-
-OceanBreeze
-
-Party
-
-Pride
-
-Pulse
-
-Rainbow
-
-RainbowTwinkles
-
-RainbowWithGlitter
-
-RampRGB
-
-Rstcurv
-
-Shikon22
-
-Shikon23
-
-ShowSolidColor
-
-Sinelon
-
-SnowTwinkles
-
-Spectrum
-
-Temperature
-
-Vintage49
-
-Wave
+| Effects / Patterns    	| Demo Link                              	|
+|-----------------------	|----------------------------------------	|
+| Analogous1            	|                                        	|
+| Aurora                	|                                        	|
+| BlackAndWhite         	|                                        	|
+| BPM                   	|                                        	|
+| Calbayo15             	|                                        	|
+| Cloud                 	|                                        	|
+| CloudTwinkles         	|                                        	|
+| ColorCube             	|                                        	|
+| ColorWaves            	|                                        	|
+| Confetti              	|                                        	|
+| CoralReef             	|                                        	|
+| Curvature             	|                                        	|
+| DeepSea               	|                                        	|
+| Fire2012Rainbow1      	|                                        	|
+| Fire2012WithPalette   	|                                        	|
+| FireAqua              	|                                        	|
+| FireBlue              	|                                        	|
+| FireChemical          	|                                        	|
+| FireElectricBlue      	| https://youtube.com/shorts/lpRK-O7NiRo 	|
+| Fireflies             	|                                        	|
+| FireGreen             	|                                        	|
+| FireNoise             	|                                        	|
+| FireOrange            	|                                        	|
+| FirePurple            	|                                        	|
+| FireRed               	|                                        	|
+| FireWhite             	|                                        	|
+| Forest                	|                                        	|
+| HueCycle              	|                                        	|
+| IncandescentTwinkles  	|                                        	|
+| Juggle                	|                                        	|
+| Lava                  	|                                        	|
+| LavaLampRainbow       	|                                        	|
+| LavaLampRainbowStripe 	|                                        	|
+| Ocean                 	|                                        	|
+| OceanBreeze           	|                                        	|
+| Party                 	|                                        	|
+| Pride                 	|                                        	|
+| Pulse                 	|                                        	|
+| Rainbow               	|                                        	|
+| RainbowTwinkles       	|                                        	|
+| RainbowWithGlitter    	|                                        	|
+| RampRGB               	|                                        	|
+| Rstcurv               	|                                        	|
+| Shikon22              	|                                        	|
+| Shikon23              	|                                        	|
+| ShowSolidColor        	|                                        	|
+| Sinelon               	|                                        	|
+| SnowTwinkles          	|                                        	|
+| Spectrum              	|                                        	|
+| Temperature           	|                                        	|
+| Vintage49             	|                                        	|
+| Wave                  	|                                        	|
 
 ### Support
 **Project:** https://www.youtube.com/playlist?list=PLuTvWrqvrCQGxWSenKpJilgakO-iD05nO
