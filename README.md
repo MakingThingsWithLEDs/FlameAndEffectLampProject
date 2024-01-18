@@ -1,27 +1,57 @@
 # LED Effect Lamp For PJRC Teensy / WS2812B Matrix
 
-| Fire Lamp                         | Lava / Plasma Lamp            | Sound Reactive            | Other Effects         |
-| --------------------------------- | ----------------------------- | ------------------------- | --------------------- |
-| TorchBlue						              | BlackAndWhite   		          | AudioAnalyzerColumns	    | BlackAndWhiteNoise|
-| TorchChemical					            | Cloud                         | AudioAnalyzerColumnsSolid | BPM|
-| TorchGreen					              | Forest			                  | AudioAnalyzerPixels			  | CloudTwinkles|
-| TorchOrange					              | Lava				                  | AudioBlackAndBlue         | ColorWaves|
-| TorchPurple					              | Ocean				                  | AudioBlackAndWhite        | Confetti|
-|                                   | Party	                        | AudioCloud                | Fire2012WithPalette|
-| TorchRed					                | Rainbow	                      | AudioFallingSpectrogram   | Fireflies|
-| TorchWhite					              | RainbowStripe			            | AudioFire1                | FireNoise|
-|								                    | Spectrum		                  | AudioFire2                | HueCycle|
-|               |								    | Temperature		                | AudioFire3                | IncandescentTwinkles|
-|                                   | RampRGB                       | AudioForest               | Juggle|
-|                                   | ColorCube                     | AudioLava                 | Pride|
-|                                   | Curvature                     | AudioLavaMagenta          | Pulse|
-|                                   | Shikon1                       | AudioLavaRainbow          | Rainbow|
-|                                   | Shikon2                       | AudioOcean                | RainbowTwinkles|
-|                                   | Slope                         | AudioParty                | RainbowWithGlitter|
-|                                   |                               | AudioRainbowStripe        | SolidColor|
-|                                   |                               |                           | Sinelon|
-|                                   |                               |                           | SnowTwinkles|
-|                                   |                               |                           | Wave|
+Analogous1						
+Aurora
+BlackAndWhite
+BPM
+Calbayo15
+Cloud
+CloudTwinkles
+ColorCube
+ColorWaves
+Confetti
+CoralReef
+Curvature
+DeepSea
+Fire2012Rainbow1
+Fire2012WithPalette
+FireAqua
+FireBlue
+FireChemical
+FireElectricBlue						https://youtube.com/shorts/lpRK-O7NiRo
+Fireflies
+FireGreen
+FireNoise
+FireOrange
+FirePurple
+FireRed
+FireWhite
+Forest
+HueCycle
+IncandescentTwinkles
+Juggle
+Lava
+LavaLampRainbow
+LavaLampRainbowStripe
+Ocean
+OceanBreeze
+Party
+Pride
+Pulse
+Rainbow
+RainbowTwinkles
+RainbowWithGlitter
+RampRGB
+Rstcurv
+Shikon22
+Shikon23
+ShowSolidColor
+Sinelon
+SnowTwinkles
+Spectrum
+Temperature
+Vintage49
+Wave
 
 ### Support
 **Project:** https://www.youtube.com/playlist?list=PLuTvWrqvrCQGxWSenKpJilgakO-iD05nO
