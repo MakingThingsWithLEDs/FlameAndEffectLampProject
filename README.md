@@ -1,6 +1,6 @@
 # LED Effect Lamp For PJRC Teensy / WS2812B Matrix
 
-| Effects / Patterns    	| Demo Link                              	|
+| Effects / Patterns    	| Video                              	|
 |-----------------------	|----------------------------------------	|
 | Analogous1            	|                                        	|
 | Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
