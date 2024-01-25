@@ -58,5 +58,7 @@
 ### Support
 **Project:** https://www.youtube.com/playlist?list=PLuTvWrqvrCQGxWSenKpJilgakO-iD05nO
 
-![Custom Built Matrix ColorCube](https://github.com/MakingThingsWithLEDs/LEDEffectLampProject/assets/77110859/feb55dd8-526e-4138-854d-6e4be939efe4)
-https://youtube.com/shorts/MAVUOS6Amuc?feature=share
+![Flame   Effects Light Electric Blue Fire Effect](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/6a01e14e-4cbc-4799-9cba-2d39b9449e65)
+
+![Flame   Effect Light Diffuser   Matrix Update](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/63c9593c-d2f2-475e-8951-b17b4d6eec04)
+
