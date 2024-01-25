@@ -3,23 +3,23 @@
 | Effects / Patterns    	| Demo Link                              	|
 |-----------------------	|----------------------------------------	|
 | Analogous1            	|                                        	|
-| Aurora                	| https://youtube.com/shorts/tznZ2VO32Hc  |
+| Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
 | BlackAndWhite         	|                                        	|
 | BPM                   	|                                        	|
-| Calbayo15             	| https://youtube.com/shorts/0qThDWDu8_c  |
-| Cloud                 	| https://youtube.com/shorts/4wfBBk5MDZU  |
+| Calbayo15             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0qThDWDu8_c/0.jpg)](https://www.youtube.com/watch?v=0qThDWDu8_c) |
+| Cloud                 	|   |
 | CloudTwinkles         	|                                        	|
-| ColorCube             	| https://youtube.com/shorts/DctwlOFSzhI 	|
-| ColorWaves            	| https://youtube.com/shorts/IHzrdELltbE  |
+| ColorCube             	|  	|
+| ColorWaves            	|   |
 | Confetti              	|                                        	|
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
-| DeepSea               	| https://youtube.com/shorts/G7jjCzjSWsY  |
-| Fire2012Rainbow1      	| https://youtube.com/shorts/2alPTXy9td4  |
+| DeepSea               	|   |
+| Fire2012Rainbow1      	|   |
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	|                                        	|
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
-| FireChemical          	| https://youtube.com/shorts/K4hKP4ozJ5w  |
+| FireChemical          	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K4hKP4ozJ5w/0.jpg)](https://www.youtube.com/watch?v=K4hKP4ozJ5w) |
 | FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lpRK-O7NiRo/0.jpg)](https://www.youtube.com/watch?v=lpRK-O7NiRo) |
 | Fireflies             	|                                        	|
 | FireGreen             	|                                        	|
@@ -34,19 +34,19 @@
 | Juggle                	|                                        	|
 | Lava                  	|                                        	|
 | LavaLampRainbow       	|                                        	|
-| LavaLampRainbowStripe 	| https://youtube.com/shorts/55KkUm9QyAU  |
+| LavaLampRainbowStripe 	|   |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	| https://youtube.com/shorts/-qBbfKF9O6U  |
+| Party                 	|   |
 | Pride                 	|                                        	|
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
 | RainbowTwinkles       	|                                        	|
 | RainbowWithGlitter    	|                                        	|
-| RampRGB               	| https://youtube.com/shorts/0ObJYcaAYPE  |
+| RampRGB               	|   |
 | Rstcurv               	|                                        	|
-| Shikon22              	| https://youtube.com/shorts/PNE2V_ilvOU  |
-| Shikon23              	| https://youtube.com/shorts/TZnlH3zCKJE  |
+| Shikon22              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PNE2V_ilvOU/0.jpg)](https://www.youtube.com/watch?v=PNE2V_ilvOU) |
+| Shikon23              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TZnlH3zCKJE/0.jpg)](https://www.youtube.com/watch?v=TZnlH3zCKJE) |
 | ShowSolidColor        	|                                        	|
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
