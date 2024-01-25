@@ -20,7 +20,7 @@
 | FireAqua              	|                                        	|
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
 | FireChemical          	| https://youtube.com/shorts/K4hKP4ozJ5w  |
-| FireElectricBlue      	| https://youtube.com/shorts/lpRK-O7NiRo 	|
+| FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lpRK-O7NiRo/0.jpg)](https://www.youtube.com/watch?v=lpRK-O7NiRo) |
 | Fireflies             	|                                        	|
 | FireGreen             	|                                        	|
 | FireNoise             	|                                        	|
