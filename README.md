@@ -51,7 +51,7 @@
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
 | Spectrum              	|                                        	|
-| Temperature           	| https://youtube.com/shorts/VB1DDAX-vIg   	|
+| Temperature           	| https://www.youtube.com/watch?v=fYSNUV5vxx8   	|
 | Vintage49             	|                                        	|
 | Wave                  	|                                        	|
 
