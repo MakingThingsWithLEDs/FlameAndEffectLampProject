@@ -25,7 +25,7 @@
 | FireGreen             	|                                        	|
 | FireNoise             	|                                        	|
 | FireOrange            	| https://youtube.com/shorts/jMiIILJbq-4   	|
-| FirePurple            	| https://youtube.com/shorts/7VXlMrUlCOM   	|
+| FirePurple            	| https://www.youtube.com/watch?v=7VXlMrUlCOM   	|
 | FireRed               	| https://youtube.com/shorts/r67FtGZvrxc   	|
 | FireWhite             	|                                        	|
 | Forest                	|                                        	|
