@@ -7,7 +7,7 @@
 | BlackAndWhite         	|                                        	|
 | BPM                   	|                                        	|
 | Calbayo15             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0qThDWDu8_c/0.jpg)](https://www.youtube.com/watch?v=0qThDWDu8_c) |
-| Cloud                 	|   |
+| Cloud                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uMpSQnTU4QM/0.jpg)](https://www.youtube.com/watch?v=uMpSQnTU4QM) |
 | CloudTwinkles         	|                                        	|
 | ColorCube             	|  	|
 | ColorWaves            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAgImssP0hc/0.jpg)](https://www.youtube.com/watch?v=lAgImssP0hc) |
