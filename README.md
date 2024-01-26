@@ -10,7 +10,7 @@
 | Cloud                 	|   |
 | CloudTwinkles         	|                                        	|
 | ColorCube             	|  	|
-| ColorWaves            	|   |
+| ColorWaves            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAgImssP0hc/0.jpg)](https://www.youtube.com/watch?v=lAgImssP0hc) |
 | Confetti              	|                                        	|
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
@@ -27,7 +27,7 @@
 | FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMiIILJbq-4/0.jpg)](https://www.youtube.com/watch?v=jMiIILJbq-4) |
 | FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://www.youtube.com/watch?v=7VXlMrUlCOM) |
 | FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
-| FireWhite             	|                                        	|
+| FireWhite             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
 | IncandescentTwinkles  	|                                        	|
@@ -38,7 +38,7 @@
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
 | Party                 	|   |
-| Pride                 	|                                        	|
+| Pride                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uN1UlFU359A/0.jpg)](https://www.youtube.com/watch?v=uN1UlFU359A) |
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
 | RainbowTwinkles       	|                                        	|
