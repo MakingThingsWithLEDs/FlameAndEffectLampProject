@@ -20,7 +20,7 @@
 | FireAqua              	|                                        	|
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
 | FireChemical          	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K4hKP4ozJ5w/0.jpg)](https://www.youtube.com/watch?v=K4hKP4ozJ5w) |
-| FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lpRK-O7NiRo/0.jpg)](https://www.youtube.com/watch?v=lpRK-O7NiRo) |
+| FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL_Dz0n3Nng/0.jpg)](https://www.youtube.com/watch?v=nL_Dz0n3Nng) |
 | Fireflies             	|                                        	|
 | FireGreen             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/psM2U7L5JMU/0.jpg)](https://www.youtube.com/watch?v=psM2U7L5JMU) |
 | FireNoise             	|                                        	|
