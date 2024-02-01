@@ -52,7 +52,7 @@
 | SnowTwinkles          	|                                        	|
 | Spectrum              	|                                        	|
 | Temperature           	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fYSNUV5vxx8/0.jpg)](https://www.youtube.com/watch?v=fYSNUV5vxx8) |
-| Vintage49             	|                                        	|
+| Vintage49             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AZHug3wS_kM/0.jpg)](https://www.youtube.com/watch?v=AZHug3wS_kM) |
 | Wave                  	|                                        	|
 
 ### Support
