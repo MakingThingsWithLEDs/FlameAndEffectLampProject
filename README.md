@@ -34,7 +34,7 @@
 | Juggle                	|                                        	|
 | Lava                  	|                                        	|
 | LavaLampRainbow       	|                                        	|
-| LavaLampRainbowStripe 	|   |
+| LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IDTf_ww0sjU/0.jpg)](https://www.youtube.com/watch?v=IDTf_ww0sjU) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
 | Party                 	|   |
