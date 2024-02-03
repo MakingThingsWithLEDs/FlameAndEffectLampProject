@@ -17,7 +17,7 @@
 | DeepSea               	|   |
 | Fire2012Rainbow1      	|   |
 | Fire2012WithPalette   	|                                        	|
-| FireAqua              	|                                        	|
+| FireAqua              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
 | FireChemical          	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K4hKP4ozJ5w/0.jpg)](https://www.youtube.com/watch?v=K4hKP4ozJ5w) |
 | FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL_Dz0n3Nng/0.jpg)](https://www.youtube.com/watch?v=nL_Dz0n3Nng) |
