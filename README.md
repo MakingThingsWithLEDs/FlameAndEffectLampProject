@@ -43,8 +43,8 @@
 | Rainbow               	|                                        	|
 | RainbowTwinkles       	|                                        	|
 | RainbowWithGlitter    	|                                        	|
-| RampRGB               	|   |
-| Rstcurv               	|                                        	|
+| RampRGB               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Jmz6PWTKPZQ/0.jpg)](https://www.youtube.com/watch?v=Jmz6PWTKPZQ) |
+| Rstcurv               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1txU8OBw5TM/0.jpg)](https://www.youtube.com/watch?v=1txU8OBw5TM) |
 | Shikon22              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PNE2V_ilvOU/0.jpg)](https://www.youtube.com/watch?v=PNE2V_ilvOU) |
 | Shikon23              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TZnlH3zCKJE/0.jpg)](https://www.youtube.com/watch?v=TZnlH3zCKJE) |
 | ShowSolidColor        	|                                        	|
