@@ -14,7 +14,7 @@
 | Confetti              	|                                        	|
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
-| DeepSea               	|   |
+| DeepSea               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mDnaWVjDDiY/0.jpg)](https://www.youtube.com/watch?v=mDnaWVjDDiY) |
 | Fire2012Rainbow1      	|   |
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
