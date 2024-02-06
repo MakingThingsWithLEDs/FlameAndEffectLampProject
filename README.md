@@ -15,7 +15,7 @@
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
 | DeepSea               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mDnaWVjDDiY/0.jpg)](https://www.youtube.com/watch?v=mDnaWVjDDiY) |
-| Fire2012Rainbow1      	|   |
+| Fire2012Rainbow1      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2Owei0R9Go4/0.jpg)](https://www.youtube.com/watch?v=2Owei0R9Go4) |
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
