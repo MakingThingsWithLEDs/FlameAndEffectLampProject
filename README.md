@@ -37,7 +37,7 @@
 | LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vlaXrxwdfds/0.jpg)](https://www.youtube.com/watch?v=vlaXrxwdfds) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	|   |
+| Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://youtube.com/shorts/PT6lvMPc_JI?feature=share) |
 | Pride                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uN1UlFU359A/0.jpg)](https://www.youtube.com/watch?v=uN1UlFU359A) |
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
