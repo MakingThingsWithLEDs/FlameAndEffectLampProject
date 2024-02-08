@@ -1,4 +1,5 @@
-# LED Effect Lamp For PJRC Teensy / WS2812B Matrix
+# LED Flames & Effects Lamp Project
+PJRC Teensy 4.0 | Custom WS2812B Led Matrix 
 
 | Effects / Patterns    	| Video                              	|
 |-----------------------	|----------------------------------------	|
@@ -25,8 +26,8 @@
 | FireGreen             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/psM2U7L5JMU/0.jpg)](https://www.youtube.com/watch?v=psM2U7L5JMU) |
 | FireNoise             	|                                        	|
 | FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMiIILJbq-4/0.jpg)](https://www.youtube.com/watch?v=jMiIILJbq-4) |
-| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://www.youtube.com/watch?v=7VXlMrUlCOM) |
-| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
+| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://youtube.com/shorts/7VXlMrUlCOM?feature=share) |
+| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://youtube.com/shorts/r67FtGZvrxc?feature=share) |
 | FireWhite             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
