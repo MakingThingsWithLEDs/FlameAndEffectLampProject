@@ -26,19 +26,19 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireGreen             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/psM2U7L5JMU/0.jpg)](https://www.youtube.com/watch?v=psM2U7L5JMU) |
 | FireNoise             	|                                        	|
 | FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMiIILJbq-4/0.jpg)](https://www.youtube.com/watch?v=jMiIILJbq-4) |
-| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://youtube.com/shorts/7VXlMrUlCOM?feature=share) |
-| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://youtube.com/shorts/r67FtGZvrxc?feature=share) |
+| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://youtube.com/shorts/7VXlMrUlCOM) |
+| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://youtube.com/shorts/r67FtGZvrxc) |
 | FireWhite             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
 | IncandescentTwinkles  	|                                        	|
 | Juggle                	|                                        	|
-| Lava                  	|                                        	|
+| Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://youtube.com/shorts/ReStbAOoWyM) |
 | LavaLampRainbow       	|                                        	|
 | LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vlaXrxwdfds/0.jpg)](https://www.youtube.com/watch?v=vlaXrxwdfds) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://youtube.com/shorts/PT6lvMPc_JI?feature=share) |
+| Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://youtube.com/shorts/PT6lvMPc_JI) |
 | Pride                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uN1UlFU359A/0.jpg)](https://www.youtube.com/watch?v=uN1UlFU359A) |
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
