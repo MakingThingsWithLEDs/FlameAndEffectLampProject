@@ -24,7 +24,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL_Dz0n3Nng/0.jpg)](https://www.youtube.com/watch?v=nL_Dz0n3Nng) |
 | Fireflies             	|                                        	|
 | FireGreen             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/psM2U7L5JMU/0.jpg)](https://www.youtube.com/watch?v=psM2U7L5JMU) |
-| [IncandescentTwinkles](https://youtube.com/shorts/8HZHj-oy8hU) | ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/caecb657-d11d-4014-ae54-ea67b25c523e) |
+| [FireNoise](https://youtube.com/shorts/8HZHj-oy8hU)            | ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/caecb657-d11d-4014-ae54-ea67b25c523e) |
 | FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMiIILJbq-4/0.jpg)](https://www.youtube.com/watch?v=jMiIILJbq-4) |
 | FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://youtube.com/shorts/7VXlMrUlCOM) |
 | FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://youtube.com/shorts/r67FtGZvrxc) |
