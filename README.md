@@ -31,7 +31,8 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | FireWhite             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
-| [IncandescentTwinkles](https://youtube.com/shorts/h0GLDVp3qB8)|  |
+| [IncandescentTwinkles](https://youtube.com/shorts/h0GLDVp3qB8)| ![Incandescent Twinkles Effect](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/39ceef3c-2586-4d7b-9bdd-c2ad8530e3a4)
+ |
 | Juggle                	|                                        	|
 | Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://youtube.com/shorts/ReStbAOoWyM) |
 | LavaLampRainbow       	|                                        	|
