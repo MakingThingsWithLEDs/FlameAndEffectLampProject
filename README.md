@@ -6,7 +6,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Analogous1            	|                                        	|
 | Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
 | BlackAndWhite         	|                                        	|
-| BPM                   	|                                        	|
+| [BPM](https://youtube.com/shorts/wpABKEyWJ7s)                	| ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/a405af70-95b4-4977-8e16-486b41d4ec59) |
 | Calbayo15             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0qThDWDu8_c/0.jpg)](https://www.youtube.com/watch?v=0qThDWDu8_c) |
 | Cloud                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uMpSQnTU4QM/0.jpg)](https://www.youtube.com/watch?v=uMpSQnTU4QM) |
 | CloudTwinkles         	|                                        	|
