@@ -1,7 +1,7 @@
 # LED Flames & Effects Lamp Project
 PJRC Teensy 4.0 | Custom WS2812B Led Matrix 
 
-| Effects / Patterns    	| Video                              	|
+| Effects Link          	| Preview                               	|
 |-----------------------	|----------------------------------------	|
 | Analogous1            	|                                        	|
 | Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
