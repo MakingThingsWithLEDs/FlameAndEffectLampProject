@@ -51,20 +51,14 @@ int green_energy4 = 0; // 145;
 int blue_energy4 = 130;
 
 byte upside_down4 = 0; // if set, flame (or rather: drop) animation is upside down. Text remains as-is
-
 // torch mode
 // ==========
-
-#define numLeds NUM_LEDS
-#define ledsPerLevel MATRIX_WIDTH
-#define levels MATRIX_HEIGHT
-
-byte currentEnergy4[numLeds]; // current energy level
-byte nextEnergy4[numLeds]; // next energy level
-byte energyMode4[numLeds]; // mode how energy is calculated for this point
+byte currentEnergy4[NUM_LEDS]; // current energy level
+byte nextEnergy4[NUM_LEDS]; // next energy level
+byte energyMode4[NUM_LEDS]; // mode how energy is calculated for this point
 
 enum {
-  torch_passive4 = 1, // just environment, glow from nearby radiation
+  torch_passive4 = 0, // just environment, glow from nearby radiation
   torch_nop4 = 1, // no processing
   torch_spark4= 2, // slowly looses energy, moves up
   torch_spark4_temp = 3, // a spark still getting energy from the level below
@@ -89,7 +83,7 @@ inline void increase4(byte &aByte, byte aAmount, byte aMax = 255)
     aByte = (byte)r;
 }
 
-uint16_t random5(uint16_t aMinOrMax, uint16_t aMax = 0)
+uint16_t random4(uint16_t aMinOrMax, uint16_t aMax = 0)
 {
   if (aMax==0) {
     aMax = aMinOrMax;
@@ -103,7 +97,7 @@ uint16_t random5(uint16_t aMinOrMax, uint16_t aMax = 0)
 
 void resetEnergy4()
 {
-  for (int i=0; i<numLeds; i++) {
+  for (int i=0; i<NUM_LEDS; i++) {
     currentEnergy4[i] = 0;
     nextEnergy4[i] = 0;
     energyMode4[i] = torch_passive4;
@@ -113,8 +107,10 @@ void resetEnergy4()
 void calcnextEnergy4()
 {
   int i = 0;
-  for (int y=0; y<levels; y++) {
-    for (int x=0; x<ledsPerLevel; x++) {
+    for (int y=0; y<MATRIX_HEIGHT; y++) {            //MATRIX_HEIGHT = MATRIX_HEIGHT
+    for (int x=0; x<(MATRIX_HEIGHT - 1) - y; x++) {      //MATRIX_WIDTH = MATRIX_WIDTH
+//  for (int y=0; y<MATRIX_HEIGHT; y++) {
+//  for (int x=0; x<MATRIX_WIDTH; x++) {
       byte e = currentEnergy4[i];
       byte m = energyMode4[i];
       switch (m) {
@@ -122,17 +118,17 @@ void calcnextEnergy4()
           // loose transfer up energy as long as the is any
           reduce4(e, spark_tfr4);
           // cell above is temp spark, sucking up energy from this cell until empty
-          if (y<levels-1) {
-            energyMode4[i+ledsPerLevel] = torch_spark4_temp;
+          if (y<MATRIX_HEIGHT-1) {
+            energyMode4[i+MATRIX_WIDTH] = torch_spark4_temp;
           }
           break;
         }
         case torch_spark4_temp: {
           // just getting some energy from below
-          byte e2 = currentEnergy4[i-ledsPerLevel];
+          byte e2 = currentEnergy4[i-MATRIX_WIDTH];
           if (e2<spark_tfr4) {
             // cell below is exhausted, becomes passive
-            energyMode4[i-ledsPerLevel] = torch_passive;
+            energyMode4[i-MATRIX_WIDTH] = torch_passive;
             // gobble up rest of energy
             increase4(e, e2);
             // loose some overall energy
@@ -147,7 +143,7 @@ void calcnextEnergy4()
         }
         case torch_passive: {
           e = ((int)e*heat_cap4)>>8;
-          increase4(e, ((((int)currentEnergy4[i-1]+(int)currentEnergy4[i+1])*side_rad4)>>9) + (((int)currentEnergy4[i-ledsPerLevel]*up_rad4)>>8));
+          increase4(e, ((((int)currentEnergy4[i-1]+(int)currentEnergy4[i+1])*side_rad4)>>9) + (((int)currentEnergy4[i-MATRIX_WIDTH]*up_rad4)>>8));
         }
         default:
           break;
@@ -161,10 +157,10 @@ const uint8_t energymap4[32] = {0, 64, 96, 112, 128, 144, 152, 160, 168, 176, 18
 
 void calcNextColors4()
 {
-  for (int i=0; i<numLeds; i++) {
+  for (int i=0; i<NUM_LEDS; i++) {
     int ei; // index into energy calculation buffer
     if (upside_down4)
-      ei = numLeds-i;
+      ei = NUM_LEDS-i;
     else
       ei = i;
     uint16_t e = nextEnergy4[ei];
@@ -194,12 +190,12 @@ void calcNextColors4()
 void injectRandom4()
 {
   // random flame energy at bottom row
-  for (int i=0; i<ledsPerLevel; i++) {
+  for (int i=0; i<MATRIX_WIDTH; i++) {
     currentEnergy4[i] = random8(flame_min4, flame_max4);
     energyMode4[i] = torch_nop4;
   }
   // random sparks at second row
-  for (int i=ledsPerLevel; i<2*ledsPerLevel; i++) {
+  for (int i=MATRIX_WIDTH; i<2*MATRIX_WIDTH; i++) {
     if (energyMode4[i]!=torch_spark4 && random8(100)<random_spark_probability4) {
       currentEnergy4[i] = random8(spark_min4, spark_max4);
       energyMode4[i] = torch_spark4;

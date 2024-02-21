@@ -268,16 +268,6 @@ uint16_t Ocean() {
   return drawNoise(OceanColors_p);
 }
 //===============================================
-uint16_t BlackAndWhite() {
-  SetupBlackAndWhiteStripedPalette();
-  noisespeedx = 9;
-  noisespeedy = 0;
-  noisespeedz = 0;
-  noisescale = 30;
-  colorLoop = 0;
-  return drawNoise(blackAndWhiteStripedPalette);
-}
-//===============================================
 uint16_t BlackAndBlue() {
   SetupBlackAndBlueStripedPalette();
   noisespeedx = 9;
@@ -423,7 +413,7 @@ uint16_t Vintage49() {
   return drawNoise(es_vintage_49_gp);
 }
 //===============================================
-uint16_t Analogous1() {
+uint16_t Analogous() {
   noisespeedx = 1;
   noisespeedy = 1;
   noisespeedz = 0;

@@ -97,7 +97,7 @@ uint16_t randomChemicalFire(uint16_t aMinOrMax, uint16_t aMax = 0)  // not reall
   return r;
 }
 
-void resetEnergyChemicalFire()
+void resetEnergy6()
 {
   for (int i=0; i<numLeds; i++) {
     currentEnergyChemicalFire[i] = 0;
@@ -128,7 +128,7 @@ void calcnextEnergyChemicalFire()
           byte e2 = currentEnergyChemicalFire[i-ledsPerLevel];
           if (e2<spark_tfrChemicalFire) {
             // cell below is exhausted, becomes passive
-            energyModeChemicalFire[i-ledsPerLevel] = torch_passiveChemicalFire;
+            energyModeChemicalFire[i-ledsPerLevel] = torch_passive;
             // gobble up rest of energy
             increaseChemicalFire(e, e2);
             // loose some overall energy
@@ -141,7 +141,7 @@ void calcnextEnergyChemicalFire()
           }
           break;
         }
-        case torch_passiveChemicalFire: {
+        case torch_passive: {
           e = ((int)e*heat_capChemicalFire)>>8;
           increaseChemicalFire(e, ((((int)currentEnergyChemicalFire[i-1]+(int)currentEnergyChemicalFire[i+1])*side_radChemicalFire)>>9) + (((int)currentEnergyChemicalFire[i-ledsPerLevel]*up_radChemicalFire)>>8));
         }

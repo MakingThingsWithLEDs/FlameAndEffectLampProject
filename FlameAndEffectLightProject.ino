@@ -19,6 +19,9 @@
  * Modified by Making Things With LEDs https://www.youtube.com/@MakingThingsWithLEDs
  * I have left all previous comments from the original code writers in place, i ask you do the same.
  * If you use this code for your own projects and upload it please link back to the original sources.
+ * 
+ * SUPPORT
+ * Discord: https://discord.gg/SESbv89gq2
  */
 
 #include <FastLED.h>
@@ -30,17 +33,24 @@
 #error "Requires FastLED 3.1 or later; check github for latest code."
 #endif
 
-#define LED_PIN     10                          // Edit this to your required pin number (leave at 11 recommended)
-#define IR_RECV_PIN 12                          // Pin for use with an IR remote control
-#define COLOR_ORDER GRB                         // LED order Green, Red, Blue as default
-#define CHIPSET     1, WS2812B                  // LED Chipset if using teensy 4.0 or above add 1, if below remove 1,
-#define NUM_LEDS    174                         // How many leds total?
-#define MAX_POWER_MILLIAMPS 5000                // Power Supply In m/A 1000=1amp 5000=5amp 10000=10amp etc.
+#define MATRIX_HEIGHT 29
+#define MATRIX_WIDTH  6
+#define LED_PIN     10                                 // Edit this to your required pin number (leave at 11 recommended)
+#define IR_RECV_PIN 12                                 // Pin for use with an IR remote control
+#define COLOR_ORDER GRB                                // LED order Green, Red, Blue as default
+#define CHIPSET     1, WS2812B                         // LED Chipset if using teensy 4.0 or above add 1, if below remove 1,
+#define NUM_LEDS    ((MATRIX_WIDTH) * (MATRIX_HEIGHT)) // How many leds total?
+#define MAX_POWER_MILLIAMPS 500                       // Power Supply In m/A 1000=1amp 5000=5amp 10000=10amp etc.
 #define BUTTON_1_PIN 16
 #define BUTTON_2_PIN 17
+#define BRIGHTNESS 64
 
-const uint8_t MATRIX_WIDTH = 6;                 // Edit this to your matrix width
-const uint8_t MATRIX_HEIGHT = 29;               // Edit this to your matrix height
+// const uint8_t MATRIX_WIDTH = 10;                 // Edit this to your matrix width
+// const uint8_t MATRIX_HEIGHT = 17;               // Edit this to your matrix height
+
+// Param for different pixel layouts
+const bool    kMatrixSerpentineLayout = true;
+const bool    kMatrixVertical = false;
 
 uint16_t XY(uint8_t x, uint8_t y);
 void dimAll(byte value);
@@ -86,7 +96,7 @@ typedef uint16_t(*PatternFunctionPointer)();
 typedef PatternFunctionPointer PatternList [];
 #define ARRAY_SIZE(A) (sizeof(A) / sizeof((A)[0]))
 
-int autoPlayDurationSeconds = 60;                                     // Set automatic play time per effect adjust as required
+int autoPlayDurationSeconds = 15;                                     // Set automatic play time per effect adjust as required
 unsigned int autoPlayTimeout = 10;
 bool autoplayEnabled = true;                                          // Disable / Enable automatic play function, use false if you wish to use momentary switch to control effects.
 
@@ -123,11 +133,9 @@ uint8_t gHue = 0; // rotating "base color" used by many of the patterns
 #include "Drawing.h"
 #include "Effects.h"
 #include "Noise.h"
-#include "Pulse.h"
-#include "Wave.h"
-#include "FireAqua.h"
 #include "Fire2012WithPalette.h"
 #include "Fire2012Rainbow.h"
+#include "FireAqua.h"
 #include "FireWhite.h"
 #include "FireRed.h"
 #include "FireGreen.h"
@@ -139,87 +147,202 @@ uint8_t gHue = 0; // rotating "base color" used by many of the patterns
 #include "FireOrange.h"
 #include "AudioLogic.h"
 #include "AudioPatterns.h"
-//===================================================================================================================================================START EFFECT PLAYLIST
-// EFFECTS LISTS                    // In automatic mode will display in order of the list.
-const PatternList patterns = {      // remove or add // to enable/disable effects
 
-  Analogous1,
+//===================================================================================================================================================START EFFECT PLAYLIST
+const PatternList patterns = {
+ //  EFFECTS LISTS                   // In automatic mode will display in order of the list. Remove or add // to enable/disable effects
+  Analogous,
   Aurora,
-  BlackAndWhite,
+  BPM,
   Calbayo15,
-  Cloud,   
+  Cloud,
+  CloudTwinkles,
   ColorCube,
-  ColorWaves, 
+  ColorWaves,
+  Confetti,
   CoralReef,
   Curvature,
   DeepSea,
   Fire2012Rainbow1,
-  FireElectricBlue,
+  Fire2012WithPalette,
+  FireAqua,
   FireBlue,
   FireChemical,
-  FireAqua,
+  FireElectricBlue,
+  Fireflies,
   FireGreen,
+  FireNoise,
   FireOrange,
   FirePurple,
   FireRed,
   FireWhite,
-  Forest,
+  HueCycle,
+  IncandescentTwinkles,
+  Juggle,
   Lava,
   LavaLampRainbow,
   LavaLampRainbowStripe,
   Ocean,
   OceanBreeze,
   Party,
+  Pride,
+  Rainbow,
+  RainbowTwinkles,
+  RainbowWithGlitter,
   RampRGB,
   Rstcurv,
   Shikon22,
   Shikon23,
+  Sinelon,
+  SnowTwinkles,
   Spectrum,
   Temperature,
   Vintage49,
 
-//--Sound-Reactive-Effects--
-//  AudioAnalyzerColumns,
-//  AudioAnalyzerColumnsSolid,
-//  AudioAnalyzerPixels,
-//  AudioBlackAndBlue,
-//  AudioBlackAndWhite,
-//  AudioCloud,
-//  AudioFallingSpectrogram,
-//  AudioFire1,
-//  AudioFire2,
-//  AudioFire3,
-//  AudioForest,
-//  AudioLava,
-//  AudioLava2,
-//  AudioLavaMagenta,
-//  AudioLavaRainbow,
-//  AudioOcean,
-//  AudioParty,
-//  AudioRainbowStripe,
+ //  OTHER EFFECTS
+ //  ShowSolidColor
 
-//---Additional-Effects---
- BPM,
- CloudTwinkles,
- Confetti,
- Fire2012WithPalette,
- Fireflies,
- FireNoise,
- HueCycle,
- IncandescentTwinkles,
- Juggle,
- Pride,
- Pulse,
- Rainbow,
- RainbowTwinkles,
- RainbowWithGlitter,
- ShowSolidColor,
- Sinelon,
- SnowTwinkles,
- Wave,
-
+ //  SOUND REACTIVE EFFECTS *WORK IN PROGRESS*
+ //  AudioAnalyzerColumns,
+ //  AudioAnalyzerColumnsSolid,
+ //  AudioAnalyzerPixels,
+ //  AudioBlackAndBlue,
+ //  AudioBlackAndWhite,
+ //  AudioCloud,
+ //  AudioFallingSpectrogram,
+ //  AudioFire1,
+ //  AudioFire2,
+ //  AudioFire3,
+ //  AudioLava,
+ //  AudioLava2,
+ //  AudioLavaMagenta,
+ //  AudioLavaRainbow,
+ //  AudioOcean,
+ //  AudioParty,
+ //  AudioRainbowStripe,
 };
 //===================================================================================================================================================END EFFECT PLAYLIST
+
+//===================================================================================================================================================START OF MATRIX LAYOUT
+// Helper functions for an two-dimensional XY matrix of pixels.
+// Simple 2-D demo code is included as well.
+//
+//     XY(x,y) takes x and y coordinates and returns an LED index number,
+//             for use like this:  leds[ XY(x,y) ] == CRGB::Red;
+//             No error checking is performed on the ranges of x and y.
+//
+//     XYsafe(x,y) takes x and y coordinates and returns an LED index number,
+//             for use like this:  leds[ XYsafe(x,y) ] == CRGB::Red;
+//             Error checking IS performed on the ranges of x and y, and an
+//             index of "-1" is returned.  Special instructions below
+//             explain how to use this without having to do your own error
+//             checking every time you use this function.  
+//             This is a slightly more advanced technique, and 
+//             it REQUIRES SPECIAL ADDITIONAL setup, described below.
+
+
+// Params for width and height
+// const uint8_t  = 16;
+// const uint8_t  = 16;
+
+// Set 'kMatrixSerpentineLayout' to false if your pixels are 
+// laid out all running the same way, like this:
+//
+//     0 >  1 >  2 >  3 >  4
+//                         |
+//     .----<----<----<----'
+//     |
+//     5 >  6 >  7 >  8 >  9
+//                         |
+//     .----<----<----<----'
+//     |
+//    10 > 11 > 12 > 13 > 14
+//                         |
+//     .----<----<----<----'
+//     |
+//    15 > 16 > 17 > 18 > 19
+//
+// Set 'kMatrixSerpentineLayout' to true if your pixels are 
+// laid out back-and-forth, like this:
+//
+//     0 >  1 >  2 >  3 >  4
+//                         |
+//                         |
+//     9 <  8 <  7 <  6 <  5
+//     |
+//     |
+//    10 > 11 > 12 > 13 > 14
+//                        |
+//                        |
+//    19 < 18 < 17 < 16 < 15
+//
+// Bonus vocabulary word: anything that goes one way 
+// in one row, and then backwards in the next row, and so on
+// is call "boustrophedon", meaning "as the ox plows."
+
+
+// This function will return the right 'led index number' for 
+// a given set of X and Y coordinates on your matrix.  
+// IT DOES NOT CHECK THE COORDINATE BOUNDARIES.  
+// That's up to you.  Don't pass it bogus values.
+//
+// Use the "XY" function like this:
+//
+//    for( uint8_t x = 0; x < ; x++) {
+//      for( uint8_t y = 0; y < ; y++) {
+//      
+//        // Here's the x, y to 'led index' in action: 
+//        leds[ XY( x, y) ] = CHSV( random8(), 255, 255);
+//      
+//      }
+//    }
+//
+//
+uint16_t XY( uint8_t x, uint8_t y)
+{
+  uint16_t i;
+  
+  if( kMatrixSerpentineLayout == false) {
+    if (kMatrixVertical == false) {
+      i = (y * MATRIX_WIDTH) + x;
+    } else {
+      i = MATRIX_HEIGHT * (MATRIX_WIDTH - (x+1))+y;
+    }
+  }
+
+  if( kMatrixSerpentineLayout == true) {
+    if (kMatrixVertical == false) {
+      if( y & 0x01) {
+        // Odd rows run backwards
+        uint8_t reverseX = (MATRIX_WIDTH - 1) - x;
+        i = (y * MATRIX_WIDTH) + reverseX;
+      } else {
+        // Even rows run forwards
+        i = (y * MATRIX_WIDTH) + x;
+      }
+    } else { // vertical positioning
+      if ( x & 0x01) {
+        i = MATRIX_HEIGHT * (MATRIX_WIDTH - (x+1))+y;
+      } else {
+        i = MATRIX_HEIGHT * (MATRIX_WIDTH - x) - (y+1);
+      }
+    }
+  }
+  
+  return i;
+}
+
+//#define NUM_LEDS (MATRIX_WIDTH * MATRIX_HEIGHT)
+CRGB leds_plus_safety_pixel[ NUM_LEDS + 1];
+//CRGB* const leds( leds_plus_safety_pixel + 1);
+
+// uint16_t XYsafe( uint8_t x, uint8_t y)
+// {
+//   if( x >= ) return -1;
+//   if( y >= ) return -1;
+//   return XY(x,y);
+// }
+//===================================================================================================================================================END OF MATRIX LAYOUT
 const int patternCount = ARRAY_SIZE(patterns);
 
 void setup() {
@@ -669,19 +792,6 @@ void handleInput(unsigned int requestedDelay) {
   }
 }
 
-uint16_t XY( uint8_t x, uint8_t y) // maps the matrix to the strip
-{
-  uint16_t i;
-  i = (y * MATRIX_WIDTH) + (MATRIX_WIDTH - x);
-
-  i = (NUM_LEDS - 1) - i;
-
-  if (i > NUM_LEDS)
-    i = NUM_LEDS;
-
-  return i;
-}
-
 // scale the brightness of the screenbuffer down
 void dimAll(byte value)
 {
@@ -739,16 +849,17 @@ uint16_t BPM()
   return 8;
 }
 //===============================================
-uint16_t Juggle() {
+uint16_t Juggle() 
+{
   // N colored dots, weaving in and out of sync with each other
   fadeToBlackBy(leds, NUM_LEDS, 20);
-  byte dothue = 1;
+  byte dothue = 0;
   byte dotCount = 3;
   for (int i = 0; i < dotCount; i++) {
     leds[beatsin16(i + dotCount - 1, 0, NUM_LEDS)] |= CHSV(dothue, 200, 255);
     dothue += 256 / dotCount;
   }
-  return 0;
+  return 8;
 }
 //===============================================
 // An animation to play while the crowd goes wild after the big performance
