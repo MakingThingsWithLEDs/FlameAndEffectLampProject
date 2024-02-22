@@ -63,7 +63,7 @@
 // Higher chance = more roaring fire.  Lower chance = more flickery fire.
 // Default 120, suggested range 50-200.
 #define SPARKINGRainbow 130 // 30 // 120 // 90 // 60
-uint16_t Fire2012Rainbow1()
+uint16_t Fire2012Rainbow()
 {
     // Array of temperature readings at each simulation cell
     static byte heat[MATRIX_WIDTH][MATRIX_HEIGHT];
