@@ -57,12 +57,12 @@
 // COOLING: How much does the air cool as it rises?
 // Less cooling = taller flames.  More cooling = shorter flames.
 // Default 55, suggested range 20-100 
-#define COOLING  200 // 100 // 55 // 86
+#define COOLING  55 // 100 // 55 // 86
 
 // SPARKING: What chance (out of 255) is there that a new spark will be lit?
 // Higher chance = more roaring fire.  Lower chance = more flickery fire.
 // Default 120, suggested range 50-200.
-#define SPARKING 230 // 30 // 120 // 90 // 60
+#define SPARKING 120 // 30 // 120 // 90 // 60
 
 uint16_t Fire2012WithPalette()
 {
@@ -90,8 +90,8 @@ uint16_t Fire2012WithPalette()
       for (int j = 0; j < MATRIX_HEIGHT; j++) {
           // Scale the heat value from 0-255 down to 0-240
           // for best results with color palettes.
-          byte colorindex = scale8(heat[x][j], 160);
-          leds[XY(x, (MATRIX_HEIGHT - 1) - j)] = ColorFromPalette(HeatColors_p, colorindex);
+          byte colorindex = scale8(heat[x][j], 240);
+          leds[XY(x, j)] = ColorFromPalette(HeatColors_p, colorindex);
       }
     }
 

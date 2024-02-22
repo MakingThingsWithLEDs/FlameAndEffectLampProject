@@ -33,20 +33,19 @@
 #error "Requires FastLED 3.1 or later; check github for latest code."
 #endif
 
-#define MATRIX_HEIGHT 29
-#define MATRIX_WIDTH  6
+// #define MATRIX_HEIGHT 29
+// #define MATRIX_WIDTH  6
+const uint8_t MATRIX_WIDTH = 6;                 // Edit this to your matrix width
+const uint8_t MATRIX_HEIGHT = 29;               // Edit this to your matrix height
 #define LED_PIN     10                                 // Edit this to your required pin number (leave at 11 recommended)
 #define IR_RECV_PIN 12                                 // Pin for use with an IR remote control
 #define COLOR_ORDER GRB                                // LED order Green, Red, Blue as default
 #define CHIPSET     1, WS2812B                         // LED Chipset if using teensy 4.0 or above add 1, if below remove 1,
-#define NUM_LEDS    ((MATRIX_WIDTH) * (MATRIX_HEIGHT)) // How many leds total?
+#define NUM_LEDS    (MATRIX_WIDTH * MATRIX_HEIGHT) // How many leds total?
 #define MAX_POWER_MILLIAMPS 5000                       // Power Supply In m/A 1000=1amp 5000=5amp 10000=10amp etc.
 #define BUTTON_1_PIN 16
 #define BUTTON_2_PIN 17
 #define BRIGHTNESS 64
-
-// const uint8_t MATRIX_WIDTH = 10;                 // Edit this to your matrix width
-// const uint8_t MATRIX_HEIGHT = 17;               // Edit this to your matrix height
 
 // Param for different pixel layouts
 const bool    kMatrixSerpentineLayout = true;
