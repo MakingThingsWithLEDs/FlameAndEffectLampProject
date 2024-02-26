@@ -19,7 +19,7 @@
 #define MSGEQ7_STROBE_PIN 2
 #define MSGEQ7_RESET_PIN  3
 #define MSGEQ7_LEFT_PIN   A0
-#define MSGEQ7_RIGHT_PIN  A1
+#define MSGEQ7_RIGHT_PIN  A1              // TEENSY A1 | ESP32 A3
 
 const uint8_t bandCount = 7;
 
