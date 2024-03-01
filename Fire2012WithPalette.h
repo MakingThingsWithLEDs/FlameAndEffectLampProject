@@ -83,7 +83,7 @@ uint16_t Fire2012WithPalette()
       // Step 3.  Randomly ignite new 'sparks' of heat near the bottom
       if (random8() < SPARKING) {
           int y = random8(2);
-          heat[x][y] = qadd8(heat[x][y], random8(160, 255));
+          heat[x][y] = qadd8(heat[x][y], random8(20, 50));
       }
   
       // Step 4.  Map from heat cells to LED colors
