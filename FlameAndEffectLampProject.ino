@@ -20,8 +20,6 @@
  * I have left all previous comments from the original code writers in place, i ask you do the same.
  * If you use this code for your own projects and upload it please link back to the original sources.
  * 
- * SUPPORT
- * Discord: https://discord.gg/SESbv89gq2
  */
 
 #include <FastLED.h>
@@ -135,6 +133,7 @@ uint8_t gHue = 0; // rotating "base color" used by many of the patterns
 #include "Fire2012WithPalette.h"
 #include "Fire2012Rainbow.h"
 #include "FireAqua.h"
+#include "FireBarbiePink.h"
 #include "FireWhite.h"
 #include "FireRed.h"
 #include "FireGreen.h"
@@ -165,6 +164,7 @@ const PatternList patterns = {
   Fire2012Rainbow,
   Fire2012WithPalette,
   FireAqua,
+  FireBarbiePink,
   FireBlue,
   FireChemical,
   FireElectricBlue,
