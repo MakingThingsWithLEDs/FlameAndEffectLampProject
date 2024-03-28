@@ -6,40 +6,40 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Analogous1            	|                                        	|
 | Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
 | BlackAndWhite         	|                                        	|
-| [BPM](https://youtube.com/shorts/wpABKEyWJ7s)                	| ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/a405af70-95b4-4977-8e16-486b41d4ec59) |
+| BPM                     | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wpABKEyWJ7s/0.jpg)](https://www.youtube.com/watch?v=wpABKEyWJ7s) |
 | Calbayo15             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0qThDWDu8_c/0.jpg)](https://www.youtube.com/watch?v=0qThDWDu8_c) |
 | Cloud                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uMpSQnTU4QM/0.jpg)](https://www.youtube.com/watch?v=uMpSQnTU4QM) |
-| [CloudTwinkles](https://youtube.com/shorts/6xIglZ9MYiI)	      | ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/60c7a9d2-20a7-4bf9-b88d-5461f367a44e) |
+| CloudTwinkles           | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6xIglZ9MYiI/0.jpg)](https://www.youtube.com/watch?v=6xIglZ9MYiI) |
 | ColorCube             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-7qV2Bu8YpM/0.jpg)](https://www.youtube.com/watch?v=-7qV2Bu8YpM) |
 | ColorWaves            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAgImssP0hc/0.jpg)](https://www.youtube.com/watch?v=lAgImssP0hc) |
-| [Confetti](https://youtube.com/shorts/itycdt23mEA)           	| ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/dabaa270-b28c-4b25-a008-e403692dbdb0) |
+| Confetti                | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/itycdt23mEA/0.jpg)](https://www.youtube.com/watch?v=itycdt23mEA) |
 | CoralReef             	|                                        	|
 | Curvature             	|                                        	|
 | DeepSea               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mDnaWVjDDiY/0.jpg)](https://www.youtube.com/watch?v=mDnaWVjDDiY) |
 | Fire2012Rainbow1      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2Owei0R9Go4/0.jpg)](https://www.youtube.com/watch?v=2Owei0R9Go4) |
 | Fire2012WithPalette   	|                                        	|
 | FireAqua              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/554TsQpDVSM/0.jpg)](https://www.youtube.com/watch?v=554TsQpDVSM) |
-| FireBarbiePink         	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8T51nAfzwE4/0.jpg)](https://youtu.be/8T51nAfzwE4) |
+| FireBarbiePink         	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8T51nAfzwE4/0.jpg)](https://www.youtube.com/watch?v=8T51nAfzwE4) |
 | FireBlue              	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bMxSjyPFbNc/0.jpg)](https://www.youtube.com/watch?v=bMxSjyPFbNc) |
-| FireChemical          	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K4hKP4ozJ5w/0.jpg)](https://www.youtube.com/watch?v=K4hKP4ozJ5w) |https://youtu.be/8T51nAfzwE4
+| FireChemical          	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/K4hKP4ozJ5w/0.jpg)](https://www.youtube.com/watch?v=K4hKP4ozJ5w) |
 | FireElectricBlue      	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nL_Dz0n3Nng/0.jpg)](https://www.youtube.com/watch?v=nL_Dz0n3Nng) |
 | Fireflies             	|                                        	|
 | FireGreen             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/psM2U7L5JMU/0.jpg)](https://www.youtube.com/watch?v=psM2U7L5JMU) |
-| [FireNoise](https://youtube.com/shorts/8HZHj-oy8hU)            | ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/caecb657-d11d-4014-ae54-ea67b25c523e) |
-| FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMiIILJbq-4/0.jpg)](https://www.youtube.com/watch?v=jMiIILJbq-4) |
-| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://youtube.com/shorts/7VXlMrUlCOM) |
-| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://youtube.com/shorts/r67FtGZvrxc) |
+| FireNoise               | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8HZHj-oy8hU/0.jpg)](https://www.youtube.com/watch?v=8HZHj-oy8hU) |
+| FireOrange            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bq_BhgwoGyM/0.jpg)](https://www.youtube.com/watch?v=Bq_BhgwoGyM) |
+| FirePurple            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7VXlMrUlCOM/0.jpg)](https://www.youtube.com/watch?v=7VXlMrUlCOM) |
+| FireRed               	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r67FtGZvrxc/0.jpg)](https://www.youtube.com/watch?v=r67FtGZvrxc) |
 | FireWhite             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ep6ztWYFsqQ/0.jpg)](https://www.youtube.com/watch?v=Ep6ztWYFsqQ) |
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
-| [IncandescentTwinkles](https://youtube.com/shorts/h0GLDVp3qB8) | ![IMAGE](https://github.com/MakingThingsWithLEDs/FlameAndEffectLampProject/assets/77110859/39ceef3c-2586-4d7b-9bdd-c2ad8530e3a4) |
+| IncandescentTwinkles    | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h0GLDVp3qB8/0.jpg)](https://www.youtube.com/watch?v=h0GLDVp3qB8) |
 | Juggle                	|                                        	|
-| Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://youtube.com/shorts/ReStbAOoWyM) |
+| Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://www.youtube.com/watch?v=ReStbAOoWyM) |
 | LavaLampRainbow       	|                                        	|
 | LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vlaXrxwdfds/0.jpg)](https://www.youtube.com/watch?v=vlaXrxwdfds) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
-| Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://youtube.com/shorts/PT6lvMPc_JI) |
+| Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://www.youtube.com/watch?v=PT6lvMPc_JI) |
 | Pride                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uN1UlFU359A/0.jpg)](https://www.youtube.com/watch?v=uN1UlFU359A) |
 | Pulse                 	|                                        	|
 | Rainbow               	|                                        	|
