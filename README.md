@@ -3,7 +3,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 
 | Effects Link          	| Preview                               	|
 |-----------------------	|----------------------------------------	|
-| Analogous1            	|                                        	|
+| Analogous1            	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/foM4O25UgyQ/0.jpg)](https://www.youtube.com/watch?v=foM4O25UgyQ) |
 | Aurora                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tznZ2VO32Hc/0.jpg)](https://www.youtube.com/watch?v=tznZ2VO32Hc) |
 | BlackAndWhite         	|                                        	|
 | BPM                     | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wpABKEyWJ7s/0.jpg)](https://www.youtube.com/watch?v=wpABKEyWJ7s) |
