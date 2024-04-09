@@ -33,7 +33,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Forest                	|                                        	|
 | HueCycle              	|                                        	|
 | IncandescentTwinkles    | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/h0GLDVp3qB8/0.jpg)](https://www.youtube.com/watch?v=h0GLDVp3qB8) |
-| Juggle                	|                                        	|
+| Juggle                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Advvo3h4sWA/0.jpg)](https://www.youtube.com/watch?v=Advvo3h4sWA) |
 | Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://www.youtube.com/watch?v=ReStbAOoWyM) |
 | LavaLampRainbow       	|                                        	|
 | LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vlaXrxwdfds/0.jpg)](https://www.youtube.com/watch?v=vlaXrxwdfds) |
