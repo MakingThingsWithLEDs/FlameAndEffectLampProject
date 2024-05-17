@@ -36,7 +36,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Juggle                	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qANoQjhLGoI/0.jpg)](https://youtu.be/qANoQjhLGoI) |
 | Lava                  	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ReStbAOoWyM/0.jpg)](https://www.youtube.com/watch?v=ReStbAOoWyM) |
 | LavaLampRainbow       	|                                        	|
-| LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vlaXrxwdfds/0.jpg)](https://www.youtube.com/watch?v=vlaXrxwdfds) |
+| LavaLampRainbowStripe 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oXuwZY5xBgc/0.jpg)](https://youtube.com/shorts/oXuwZY5xBgc?feature=share) |
 | Ocean                 	|                                        	|
 | OceanBreeze           	|                                        	|
 | Party                 	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PT6lvMPc_JI/0.jpg)](https://www.youtube.com/watch?v=PT6lvMPc_JI) |
