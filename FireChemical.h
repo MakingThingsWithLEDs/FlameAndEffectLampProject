@@ -97,7 +97,7 @@ uint16_t randomChemicalFire(uint16_t aMinOrMax, uint16_t aMax = 0)  // not reall
   return r;
 }
 
-void resetEnergy6()
+void resetEnergyChemicalFire()
 {
   for (int i=0; i<numLeds; i++) {
     currentEnergyChemicalFire[i] = 0;

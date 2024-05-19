@@ -136,6 +136,7 @@ uint8_t gHue = 0; // rotating "base color" used by many of the patterns
 #include "FireBarbiePink.h"
 #include "FireWhite.h"
 #include "FireRed.h"
+#include "FireYellow.h"
 #include "FireGreen.h"
 #include "FireBlue.h"
 #include "FireElectricBlue.h"
@@ -174,6 +175,7 @@ const PatternList patterns = {
   FireOrange,
   FirePurple,
   FireRed,
+  FireYellow,
   FireWhite,
   HueCycle,
   IncandescentTwinkles,
