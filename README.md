@@ -53,7 +53,7 @@ PJRC Teensy 4.0 | Custom WS2812B Led Matrix
 | Sinelon               	|                                        	|
 | SnowTwinkles          	|                                        	|
 | Spectrum              	|                                        	|
-| Temperature           	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fYSNUV5vxx8/0.jpg)](https://www.youtube.com/watch?v=fYSNUV5vxx8) |
+| Temperature           	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7qriRYJ1oCw/0.jpg)](https://youtube.com/shorts/7qriRYJ1oCw?feature=share) |
 | Vintage49             	| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AZHug3wS_kM/0.jpg)](https://www.youtube.com/watch?v=AZHug3wS_kM) |
 | Wave                  	|                                        	|
 
